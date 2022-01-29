@@ -1,0 +1,10 @@
+.conteneur {
+  background-color: white;
+  width: 20%;
+  margin: 140px 0px 10px 250px;
+}
+.card{
+    background-color:white;
+    position: relative;
+}
+

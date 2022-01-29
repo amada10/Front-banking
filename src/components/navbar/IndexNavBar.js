@@ -9,15 +9,14 @@ import {
   SidebarContent,
 } from "react-pro-sidebar";
 
-import { FaList } from "react-icons/fa";
 import {BsCreditCard} from "react-icons/bs";
 import { MdPayment, MdOutlineContactMail, MdOutlineSettings } from "react-icons/md";
-import { FiHome, FiLogOut, FiArrowLeftCircle, FiArrowRightCircle } from "react-icons/fi";
+import { FiHome, FiArrowLeftCircle, FiArrowRightCircle } from "react-icons/fi";
 import { RiPencilLine, RiAccountCircleLine } from "react-icons/ri";
 
 
 import "react-pro-sidebar/dist/css/styles.css";
-import "../../assets/css/Index.css";
+import "../../assets/css/IndexNavBar.css";
 
 
 const IndexNavBar = () => {
