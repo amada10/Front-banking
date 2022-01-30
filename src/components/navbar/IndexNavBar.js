@@ -8,6 +8,7 @@ import {
   SidebarFooter,
   SidebarContent,
 } from "react-pro-sidebar";
+import { Container, Row, Col } from 'react-bootstrap';
 
 import {BsCreditCard} from "react-icons/bs";
 import { MdPayment, MdOutlineContactMail, MdOutlineSettings } from "react-icons/md";
@@ -28,7 +29,7 @@ const IndexNavBar = () => {
   };
 
   return (
-    <>
+    <Container>
       <div id="header">
         <ProSidebar collapsed={menuCollapse}>
           <SidebarHeader>
@@ -62,7 +63,7 @@ const IndexNavBar = () => {
           </SidebarFooter>
         </ProSidebar>
       </div>
-    </>
+    </Container>
   );
 };
 
