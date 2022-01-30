@@ -1,9 +1,9 @@
 .cont_card{
     position: relative;
-    left: 190px;
+    left: 200px;
     display: flex;
     flex-direction: row;
-    width: 80%;
+    width: 70%;
 }
 
 .conteneur{
