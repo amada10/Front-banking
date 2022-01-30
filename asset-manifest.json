@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sayna-TestFront-React/static/css/main.50451faf.css",
+    "main.js": "/Sayna-TestFront-React/static/js/main.e393de2c.js",
+    "index.html": "/Sayna-TestFront-React/index.html",
+    "main.50451faf.css.map": "/Sayna-TestFront-React/static/css/main.50451faf.css.map",
+    "main.e393de2c.js.map": "/Sayna-TestFront-React/static/js/main.e393de2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50451faf.css",
+    "static/js/main.e393de2c.js"
+  ]
+}
