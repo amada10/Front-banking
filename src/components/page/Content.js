@@ -41,6 +41,7 @@ const styles = {
     card_credit: {
         position: 'relative',
         top: '20px',
+        left: '50px',
         height: '100px'
     },
     stat: {

@@ -7,7 +7,7 @@
 }
 
 .conteneur{
-    margin: 0px 230px 50px 230px;
+    margin: 0px 190px 50px 190px;
     display: flex;
     justify-content: space-between;
     width: 75%;
@@ -27,8 +27,8 @@
 }
 
 button{
-    height: 50px;
-    width: 50px;
+    height: 5px;
+    width: 5px;
     border-radius: 50px;
     border-style: none;
 }
